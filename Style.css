@@ -1,0 +1,73 @@
+body{
+    background-image: url(1.webp);
+}
+
+
+
+.col-lg-12{
+    width: 1535px;
+    height: 500px;
+    background-color: rgba(255, 0, 0, 0.027);
+    margin-top: 1rem;
+    display: flex;
+    gap: 1rem;
+}
+
+.col-8{
+    height: 30rem;
+    background-color: rgba(128, 128, 128, 0.168)
+}
+
+.col-4{
+    height: 30rem;
+    background-color: rgba(128, 128, 128, 0.162)
+}
+
+
+
+.col-12{
+    height: 13rem;
+    background-color: rgba(0, 0, 0, 0.197);
+    margin-top: 1rem;
+    gap: 1rem;
+}
+.col-3{
+    background-color: red;
+}
+
+.col-11{
+    height: 15rem;
+    background-color: red;
+    margin: auto;
+}
+
+
+
+.rounded{
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    top: 1rem;
+    left: 0rem;
+}
+
+
+.text-white{
+    position: absolute;
+    top: 1rem;
+    left: 0rem;
+}
+
+.text-white2{
+    position: absolute;
+    top: 20rem;
+    left: 0rem;
+    color: white;
+}
+
+.col-lg-12{
+    height: 215px;
+    width: 300px;
+    margin-top: -5px;
+}
+
